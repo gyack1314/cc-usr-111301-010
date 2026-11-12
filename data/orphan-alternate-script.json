@@ -1,0 +1,27 @@
+{
+  "kind": "marc21-catalog",
+  "assets": [
+    {
+      "path": "orphan.mrc",
+      "bytes": 188,
+      "sha256": "0ed43ac3e5dc74fd4b464147aebd561950eb5837a203deecda5caf14814642f3"
+    }
+  ],
+  "source": {
+    "path": "orphan.mrc",
+    "bytes": 188,
+    "sha256": "0ed43ac3e5dc74fd4b464147aebd561950eb5837a203deecda5caf14814642f3"
+  },
+  "source_agency": "agency-A",
+  "batch_id": "b1",
+  "declared_records": 1,
+  "chunk_lengths": [
+    1,
+    23,
+    7,
+    11,
+    1000
+  ],
+  "max_record_bytes": 99999,
+  "required_leader_encoding": "a"
+}

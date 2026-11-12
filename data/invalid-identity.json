@@ -1,0 +1,27 @@
+{
+  "kind": "marc21-catalog",
+  "assets": [
+    {
+      "path": "catalog.mrc",
+      "bytes": 188,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ],
+  "source": {
+    "path": "catalog.mrc",
+    "bytes": 188,
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "source_agency": "agency-A",
+  "batch_id": "b1",
+  "declared_records": 1,
+  "chunk_lengths": [
+    1,
+    23,
+    7,
+    11,
+    1000
+  ],
+  "max_record_bytes": 99999,
+  "required_leader_encoding": "a"
+}
